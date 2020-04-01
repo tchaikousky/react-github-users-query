@@ -18,7 +18,9 @@ _REMINDER_: You'll need to setup controlled components in your React form: https
 ## Getting Started
 
 - Fork this repo
+- Clone it to your machine
 - Create a new branch called `user-fetch-exercise`
+- Run `npm i`
 - Convert `App.js` from a FUNCTIONAL COMPONENT to a CLASS BASED COMPONENT
 - Remove all the default information from `App.js`
 - Create a folder called `components`
